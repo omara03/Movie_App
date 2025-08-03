@@ -23,6 +23,7 @@ Movify is a modern movie discovery web application that allows users to search f
     - Poster image
     - Rating (real-life TMDB rating)
     - Language
+    - Release date
 
 - 📈 **Search Analytics**
 
